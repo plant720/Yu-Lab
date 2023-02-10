@@ -22,14 +22,17 @@ organizations:
 
 interests:
   - Bioinfomatics
+  - Computational Biology
+  - Phylogenetics
+
 
 education:
   courses:
-    - course: Master in Bioinfomatics
+    - course: Master in Bioscience and Computational Biology
       institution: SiChuan University
       year: 2022-current
-    - course: Bachelor in Computational Biology
-      institution: SiChuan University
+    - course: Bachelor in Bioinformatics
+      institution: Dalian University of Technology
       year: 2018-2022
 
 # Social/Academic Networking
@@ -39,13 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: ''
-  - icon: google-scholar
-    icon_pack: ai
-    link: ''
-  - icon: github
-    icon_pack: fab
-    link: ''
+    link: 'Xinyi_Yu2021@163.com'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,4 +58,8 @@ user_groups:
   - Master Students
 ---
 
-YU Xinyi is a Ph.D student in Yu Lab, supervised by Prof. Yu. 
+YU Xinyi is a master student in Yu Lab at SCU, supervised by Prof.Yu.
+
+She mainly focuses on two aspects:
+1.	I would like to develop an efficient tool to explore the origin and diffusion of species.
+2.	I would like to explore various theoretical methods of molecular marker extraction.
