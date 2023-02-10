@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: minimal
-  theme_night:
+  theme_night: dark
   font: native
   font_size: L
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Yu Lab. The laboratory of Computational Methods in Ecology and Evolution from SCU.'
     license:
       enable: true
       allow_derivatives: false
@@ -51,7 +51,6 @@ footer:
       allow_commercial: false
 
 # Localization
-
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
@@ -70,7 +69,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/plant720/Yu-Lab'
     content_dir: content
     branch: main
   avatar:
