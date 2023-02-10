@@ -1,16 +1,16 @@
 ---
 # Display name
-title: ZHANG Zhen
+title: YU Xinyi
 
 # Username (this should match the folder name)
 authors:
-  - ZHANG Zhen
+  - YU Xinyi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Doctor of Yu Lab
+role: Master of Yu Lab
 
 # Organizations/Affiliations
 organizations:
@@ -18,16 +18,14 @@ organizations:
     url: 'https://www.scu.edu.cn'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bioinfomatics
 
 education:
   courses:
-    - course: PhD in Bioinfomatics
+    - course: Master in Bioinfomatics
       institution: SiChuan University
       year: 2022-current
     - course: Bachelor in Computational Biology
@@ -41,13 +39,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'zzhen0302@163.com'
+    link: ''
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: ''
   - icon: github
     icon_pack: fab
-    link: https://github.com/plant720
+    link: ''
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,9 +58,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Master Students
 ---
 
-ZHANG Zhen is a Ph.D student in Yu Lab, supervised by Prof. Yu. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+YU Xinyi is a Ph.D student in Yu Lab, supervised by Prof. Yu. 

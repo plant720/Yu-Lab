@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Developed Tools
 
 # Listing view
 view: compact
