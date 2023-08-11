@@ -27,10 +27,10 @@ education:
   courses:
     - course: Master in Biology
       institution: SiChuan University
-      year: 2020-current
+      year: 2020-2023
     - course: Bachelor 
       institution: 
-      year: 2016-2020
+      year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -58,7 +58,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - Grad Students
 ---
 
 ZHOU Yuyang is a master student in Yu Lab, supervised by Prof. Yu.

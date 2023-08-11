@@ -30,7 +30,7 @@ education:
   courses:
     - course: Master in Bioinfomatics
       institution: SiChuan University
-      year: 2020-current
+      year: 2020-2023
     - course: Bachelor in Bio-engineering
       institution: China University of Mining and Technology
       year: 2016-2020
@@ -58,7 +58,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - Grad Students
 ---
 
 XIE Pulin is a master student in Yu Lab, supervised by Prof. Yu.

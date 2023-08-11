@@ -27,10 +27,10 @@ education:
   courses:
     - course: Master in Bioinfomatics
       institution: SiChuan University
-      year: 2022-current
+      year: 2020-2023
     - course: Bachelor in Computational Biology
       institution: SiChuan University
-      year: 2018-2022
+      year: 2016-2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -58,5 +58,5 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - Grad Students
 ---

@@ -18,7 +18,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: 'Molecular Phylogenetics and Evolution'
-publication_short: 'Mol Phylogenet Evol'
+publication_short: 'Mol Phylo Evol'
 
 abstract: Dispersal-Vicariance Analysis (DIVA) is one of the most widely used methods of inferring biogeographic histories. Here we present a simple tool that complements DIVA and uses a Statistical Dispersal-Vicariance Analysis (S-DIVA) to statistically evaluate the alternative ancestral ranges at each node in a tree accounting for phylogenetic uncertainty and uncertainty in DIVA optimization. S-DIVA provides a point-and-click user interface and displays results as, high-resolution, exportable graphics. S-DIVA is freely available for download for Windows at http://mnh.scu.edu.cn/S-DIVA.
 
