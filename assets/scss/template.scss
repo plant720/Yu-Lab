@@ -7,3 +7,110 @@
 .cta-group {
   justify-content: center;
 }
+
+
+
+/* ===== News页面字体大小调整 ===== */
+
+/* News列表页面 */
+.posts-container {
+  /* 新闻标题 */
+  .article-title {
+    font-size: 1.2rem !important;        /* 增大标题字体 */
+    line-height: 1.4 !important;
+    font-weight: 600 !important;
+    margin-bottom: 0.75rem !important;
+  }
+
+  /* 新闻日期 */
+  .article-date {
+    font-size: 0.9rem !important;        /* 调整日期字体 */
+    color: #666 !important;
+  }
+
+  /* 新闻摘要 */
+  .article-summary {
+    font-size: 1rem !important;          /* 调整摘要字体 */
+    line-height: 1.6 !important;
+    color: #333 !important;
+  }
+}
+
+/* News详情页面 */
+.article-container {
+  /* 文章标题 */
+  h1 {
+    font-size: 1.8rem !important;        /* 详情页标题 */
+    line-height: 1.3 !important;
+    margin-bottom: 1rem !important;
+  }
+
+  /* 正文内容 */
+  p {
+    font-size: 1.05rem !important;       /* 正文字体稍大 */
+    line-height: 1.7 !important;         /* 增加行距 */
+    text-align: justify !important;      /* 两端对齐 */
+    margin-bottom: 1rem !important;
+  }
+
+  /* 段落首行缩进（中文习惯） */
+  p {
+    text-indent: 0;                    /* 首行缩进2个字符 */
+  }
+
+  /* 第一段不缩进 */
+  p:first-of-type {
+    text-indent: 0;
+  }
+}
+
+/* Compact view 特殊样式 */
+.view-compact {
+  .article-title {
+    font-size: 1.1rem !important;
+  }
+
+  .article-summary {
+    font-size: 0.95rem !important;
+  }
+}
+
+/* ===== 移动端响应式 ===== */
+@media (max-width: 768px) {
+  .posts-container .article-title {
+    font-size: 1rem !important;
+  }
+
+  .article-container {
+    h1 {
+      font-size: 1.5rem !important;
+    }
+
+    p {
+      font-size: 1rem !important;
+      line-height: 1.6 !important;
+    }
+  }
+}
+
+/* ===== 中文字体优化 ===== */
+.article-container {
+  font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei",
+  "Helvetica Neue", Arial, sans-serif !important;
+}
+
+/* 特殊强调内容 */
+.article-container {
+  /* 期刊名称斜体 */
+  em {
+    font-style: italic;
+    color: #007acc;
+    font-weight: 500;
+  }
+
+  /* 重要信息加粗 */
+  strong {
+    font-weight: 600;
+    color: #2c3e50;
+  }
+}
