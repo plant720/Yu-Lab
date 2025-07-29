@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master of Yu Lab
+role: Master student of Yu Lab
 
 # Organizations/Affiliations
 organizations:
@@ -40,7 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: ''
+    link: 'mailto:<EMAIL>'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -56,4 +56,8 @@ user_groups:
   - Alumni
 ---
 
+<div style="text-align: justify">
+
 ZHOU Yuyang (周雨阳) is a master student in Yu Lab, supervised by Prof. Yu.
+
+</div>

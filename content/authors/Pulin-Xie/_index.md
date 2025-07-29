@@ -62,6 +62,8 @@ user_groups:
   - Alumni
 ---
 
+<div style="text-align: justify">
+
 XIE Pulin (谢普林) is a master student in Yu Lab, supervised by Prof. Yu.
 
 He mainly focus on three aspects:
@@ -70,4 +72,6 @@ He mainly focus on three aspects:
   3. Multiplayer entropy-reducing games: Shikoku Junqi, National Mahjong, Chinese chess
 
 Please view his personal web if you want to learn more about himself: https://github.com/happywithxpl
+
+</div>
 

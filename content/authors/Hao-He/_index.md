@@ -1,11 +1,12 @@
 ---
 # Display name
-title: Hao He
+title: HE Hao
 
 # Username (this should match the folder name)
 authors:
-  - Hao He
   - HE Hao
+  - Hao He
+
 
 # Is this the primary user of the site?
 superuser: false
@@ -60,6 +61,7 @@ email: ''
 user_groups:
   - Master Students
 ---
+
 <div style="text-align: justify;">
 
 HE Hao (何浩) is a Master's student in Yu Lab, supervised by Prof. Yu. His research focuses on computational biology and evolutionary biology, particularly on phylogenetic methods and systematic studies. He is especially interested in developing innovative computational approaches to elucidate complex biological processes and evolutionary patterns.

@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master of Yu Lab
+role: Master Student of Yu Lab
 
 # Organizations/Affiliations
 organizations:
@@ -19,14 +19,16 @@ organizations:
     url: 'https://www.scu.edu.cn'
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include taxonomy, phylogenetics, and evolutionary biology.
 
 interests:
-  - Artificial Intelligence
+  - Taxonomy
+  - Phylogenetics
+  - Evolutionary Biology
 
 education:
   courses:
-    - course: Master 
+    - course: Master
       institution: SiChuan University
       year: 2021-current
     - course: Bachelor
@@ -40,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: ''
+    link: 'mailto:'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -56,4 +58,8 @@ user_groups:
   - Alumni
 ---
 
-YANG Cenyue (杨岑玥) is a master student in Yu Lab, supervised by Prof. Yu. 
+<div style="text-align: justify">
+
+YANG Cenyue (杨岑玥) is a master student in Yu Lab, supervised by Prof. Yu.
+
+</div>

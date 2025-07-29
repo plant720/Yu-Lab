@@ -74,4 +74,8 @@ user_groups:
   - Principal Investigator
 ---
 
-YU Yan is the professor of Yu Lab.
+<div style="text-align: justify">
+
+YU Yan (余岩) is the professor of Yu Lab.
+
+</div>

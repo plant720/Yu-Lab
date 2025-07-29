@@ -4,7 +4,7 @@ title: YU Xinyi
 
 # Username (this should match the folder name)
 authors:
-  - Yu Xinyi
+  - YU Xinyi
   - Xinyi Yu
 
 # Is this the primary user of the site?
@@ -37,6 +37,7 @@ education:
     - course: Bachelor in Bioinformatics
       institution: Dalian University of Technology
       year: 2018-2022
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -58,15 +59,16 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'Xinyi_Yu2021@163.com'
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - PhD Students
 ---
+
 <div style="text-align: justify;">
 
-Yu Xinyi (于欣艺) is a PhD student in Yu Lab, supervised by Prof. Yu, specializing in bioinformatics and computational biology. Her primary research focuses on phylogenetic methods and systematic studies, with a strong emphasis on the design, implementation, and evaluation of computational workflows tailored for phylogenetic inference and evolutionary biology research.
+YU Xinyi (于欣艺) is a PhD student in Yu Lab, supervised by Prof. Yu, specializing in bioinformatics and computational biology. Her primary research focuses on phylogenetic methods and systematic studies, with a strong emphasis on the design, implementation, and evaluation of computational workflows tailored for phylogenetic inference and evolutionary biology research.
 
 </div>
