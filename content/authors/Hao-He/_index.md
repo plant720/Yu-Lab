@@ -4,7 +4,6 @@ title: HE Hao
 
 # Username (this should match the folder name)
 authors:
-  - HE Hao
   - Hao He
 
 

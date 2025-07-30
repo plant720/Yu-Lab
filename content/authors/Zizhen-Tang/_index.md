@@ -4,7 +4,6 @@ title: TANG Zizhen
 
 # Username (this should match the folder name)
 authors:
-  - TANG Zizhen
   - Zizhen Tang
 
 # Is this the primary user of the site?

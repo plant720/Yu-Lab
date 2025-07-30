@@ -4,7 +4,6 @@ title: XU Yan
 
 # Username (this should match the folder name)
 authors:
-  - XU Yan
   - Yan Xu
 
 # Is this the primary user of the site?

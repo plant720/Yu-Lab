@@ -4,7 +4,6 @@ title: ZHANG Yuxiang
 
 # Username (this should match the folder name)
 authors:
-  - ZHANG Yuxiang
   - Yuxiang Zhang
 
 # Is this the primary user of the site?

@@ -4,7 +4,6 @@ title: SONG Yongxiu
 
 # Username (this should match the folder name)
 authors:
-  - SONG Yongxiu
   - Yongxiu SONG
 
 # Is this the primary user of the site?

@@ -4,7 +4,6 @@ title: HOU Jiaqing
 
 # Username (this should match the folder name)
 authors:
-  - HOU Jiaqing
   - Jiaqing Hou
 
 # Is this the primary user of the site?

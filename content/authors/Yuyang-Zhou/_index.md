@@ -4,14 +4,13 @@ title: ZHOU Yuyang
 
 # Username (this should match the folder name)
 authors:
-  - ZHOU Yuyang
   - Yuyang Zhou
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master student of Yu Lab
+role: Master Student of Yu Lab
 
 # Organizations/Affiliations
 organizations:
@@ -19,19 +18,18 @@ organizations:
     url: 'https://www.scu.edu.cn'
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include taxonomy, evolution, and phylogenetics.
 
 interests:
-  - Biology
+  - Taxonomy
+  - Evolution
+  - Phylogenetics
 
 education:
   courses:
     - course: Master in Biology
       institution: SiChuan University
       year: 2020-2023
-    - course: Bachelor 
-      institution: 
-      year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,7 +38,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:<EMAIL>'
+    link: 'mailto:'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

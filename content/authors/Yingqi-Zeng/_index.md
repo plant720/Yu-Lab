@@ -4,7 +4,6 @@ title: ZENG Yingqi
 
 # Username (this should match the folder name)
 authors:
-  - ZENG Yingqi
   - Yingqi Zeng
 
 

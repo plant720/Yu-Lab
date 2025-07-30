@@ -4,7 +4,6 @@ title: YU Xinyi
 
 # Username (this should match the folder name)
 authors:
-  - YU Xinyi
   - Xinyi Yu
 
 # Is this the primary user of the site?

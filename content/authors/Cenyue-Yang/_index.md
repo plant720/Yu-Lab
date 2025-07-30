@@ -4,7 +4,6 @@ title: YANG Cenyue
 
 # Username (this should match the folder name)
 authors:
-  - YANG Cenyue
   - Cenyue Yang
 
 # Is this the primary user of the site?

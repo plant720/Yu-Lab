@@ -4,7 +4,6 @@ title: XIE Pulin
 
 # Username (this should match the folder name)
 authors:
-  - XIE Pulin
   - Pulin Xie
 
 # Is this the primary user of the site?

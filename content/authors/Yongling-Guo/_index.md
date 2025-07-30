@@ -4,7 +4,6 @@ title: GUO Yongling
 
 # Username (this should match the folder name)
 authors:
-  - GUO Yongling
   - Yongling Guo
 
 # Is this the primary user of the site?

@@ -4,7 +4,6 @@ title: HU Yutong
 
 # Username (this should match the folder name)
 authors:
-  - HU Yutong
   - Yutong Hu
 
 # Is this the primary user of the site?
