@@ -18,17 +18,22 @@ organizations:
     url: 'https://www.scu.edu.cn'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Darknet admins reject my manuscript as too grotesque and recommend scientific journals instead.
+bio: Darknet admins reject my manuscripts as too grotesque, so I submit them to scientific journals.
 
 interests:
+  - Computational Biology
+  - Cryptography
   - Ecology
   - Economics
-  - Cryptography
-  - Sleeping
+  - Econometrics
+  - Ecossais
+  - Eco-something? (definitely not E. coli)
+  - Emo
+
 
 education:
   courses:
-    - course: Master's in Bioinformatics
+    - course: Master in Bioinformatics
       institution: SiChuan University
       year: 2023-current
     - course: Bachelor in Investment
@@ -46,6 +51,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0009-0009-3003-0351
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/limepoutine
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,6 +70,6 @@ user_groups:
 ---
 <div style="text-align: justify;">
 
-TANG Zizhen (唐子臻)is a Master's student in Yu Lab, supervised by Prof. Yu, specializing in bioinformatics and computational biology. His primary research focus is the recovery of fine-grained phylogenetic information, with a goal to shed light on the intricate dynamics of molecular evolution. As a pastime, he tells a hefty amount of dad jokes in the lab.
+TANG Zizhen (唐子臻) is a Master's student in Yu Lab, supervised by Prof. Yu, specializing in bioinformatics and computational biology. His primary research focus is the recovery of fine-grained phylogenetic information, with a goal to shed light on the intricate dynamics of molecular evolution. As a pastime, he triggers obscure software bugs, nitpicks about grammar (should I say pastime*s*?), tells a hefty amount of dad jokes in the lab, and pets feral domestic geese.
 
 </div>
